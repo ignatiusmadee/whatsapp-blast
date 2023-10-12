@@ -1,6 +1,6 @@
 # Whatsapp-Blast by ELF
 
-Whatsapp Bulk Messenger automates sending of messages via latest Whatsapp Web Version 2.2344.52
+Whatsapp Blast automates sending message without add the number to your contact first via latest Whatsapp Web Version 2.2344.52
 
 # Requirements
 
